@@ -6,19 +6,19 @@
 This project serves as a comprehensive penetration testing exercise conducted in a Capture the Flag (CTF) format. The engagement simulated a real-world scenario where I was hired to conduct reconnaissance, launch exploits against discovered vulnerabilities, and provide remediation strategies to secure the environment.
 
 ## Objectives
-- [cite_start]Conduct full-cycle penetration tests on target networks (10.5.5.0/24 and 192.168.0.0/24)[cite: 1, 15].
-- [cite_start]Utilize ethical hacking skills to locate hidden flag values[cite: 3].
-- [cite_start]Document successful exploits and propose industry-standard remediation steps[cite: 14].
+- Conduct full-cycle penetration tests on target networks (10.5.5.0/24 and 192.168.0.0/24).
+- Utilize ethical hacking skills to locate hidden flag values.
+- Document successful exploits and propose industry-standard remediation steps.
 
 ## Core Challenges
-1. [cite_start]**SQL Injection:** Exploiting a web application to harvest database credentials[cite: 9].
-2. [cite_start]**Web Server Misconfiguration:** Leveraging directory listing vulnerabilities to find sensitive data[cite: 10].
-3. [cite_start]**SMB Service Exploitation:** Enumerating and accessing unsecured network shares[cite: 11].
-4. [cite_start]**Network Traffic Analysis:** Analyzing PCAP files to identify target locations and credentials[cite: 12].
+1. **SQL Injection:** Exploiting a web application to harvest database credentials.
+2. **Web Server Misconfiguration:** Leveraging directory listing vulnerabilities to find sensitive data.
+3. **SMB Service Exploitation:** Enumerating and accessing unsecured network shares.
+4. **Network Traffic Analysis:** Analyzing PCAP files to identify target locations and credentials.
 
 ## Required Resources
-- [cite_start]Kali Linux VM (customized for Ethical Hacker course)[cite: 13].
-- [cite_start]Target environment hosts on 10.5.5.x and 192.168.0.x subnets[cite: 15].
+- Kali Linux VM (customized for Ethical Hacker course)
+- Target environment hosts on 10.5.5.x and 192.168.0.x subnets
 
 ---
 
