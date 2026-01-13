@@ -55,3 +55,6 @@ smbclient //10.5.5.14/print$
 
 # Download file
 smb: \OTHER\> get sxij42.txt
+
+Security Lessons
+This challenge demonstrates the risks of anonymous SMB access and improperly configured network shares. Organizations must disable anonymous access, enforce authentication, and implement proper access controls on all shared resources.
